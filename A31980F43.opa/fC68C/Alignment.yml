@@ -1,0 +1,30 @@
+segment_sources:
+  I5BB9AD94:
+    type: origin_type
+    relation: translation
+    language: en
+  IE92472F7:
+    type: origin_type
+    relation: translation
+    language: fr
+  IEC75733C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a52ba1e774044b199097892a28e0f429:
+    I5BB9AD94: 89319353bffe43cfab8524c0e458d1ff
+    IE92472F7: 413dbb7b5307432193809daf5d44f533
+    IEC75733C: ed70d9b79bc04712b6b790078aadfb94
+  447f4d861305460999398934be1e7c47:
+    I5BB9AD94: b24f354dd2184af29a055aa7d54b81d6
+    IE92472F7: 509371d697a94b9a92400857cb3430eb
+    IEC75733C: 35e7428abae1452f887b21bf309a890e
+  d6d0523379b14441991365d9eb807a77:
+    I5BB9AD94: 570a312d9c4b4fffae6a53ad37ab3811
+    IE92472F7: f87a04ccb8fc4755bf6f2cc55de1243c
+    IEC75733C: 508cd9fbf0784a5cb8f42d0645a047eb
+  a8dd18ed0dcc4b20944dab012daa4394:
+    I5BB9AD94: a5fb68e7cbcb41d0858168be3f91cc69
+    IE92472F7: 91ada6143d074407941b114c994d4bab
+    IEC75733C: 6542b0f07938473cb716c38f14d45683
